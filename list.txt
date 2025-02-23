@@ -1,0 +1,9 @@
+/home/ariafatah/htb
+/home/ariafatah/picoCTF
+/home/ariafatah/ctf_aria
+/home/ariafatah/ctf
+/home/ariafatah/tool
+/home/ariafatah/thm
+/home/ariafatah/stty
+/home/ariafatah/Downloads
+/home/ariafatah/Documents
